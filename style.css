@@ -1,10 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <!-- page content -->
-  </body>
-</html>
+    h1 {
+      Text-align: center;
+    }
+    h1 {
+      color: white;
+    }
+    h2 {
+      color: white;
+    }
+    p {
+      color: white;
+    }
+    a{
+      color: yellow;
+    }
+    img {
+      display: block;
+    }
+    h3 {
+      color: white
+    }
